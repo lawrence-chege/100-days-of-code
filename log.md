@@ -27,3 +27,48 @@
 **Link(s) to work**
 1. [The app](https://lawrence-chege.github.io/tic-tac/)
 2. [The Tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
+### Day 3: OCTOBER 19, 2019
+
+**Today's Progress**: Still on the react app. I managed to add users to the page
+
+**Thoughts** 
+- I get it a bit
+**Link(s) to work**
+1. [The app](https://lawrence-chege.github.io/tic-tac/)
+2. [The Tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
+
+### Day 4: OCTOBER 20, 2019
+
+**Today's Progress**: Still on the react app, I managed to delete a user
+
+**Thoughts** I think I now understand the making of different components
+1. [The app](https://lawrence-chege.github.io/tic-tac/)
+2. [The Tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
+### Day 5: OCTOBER 21, 2019
+
+**Today's Progress**: I changed the react app to a meteor app.
+- I worked on the methods for adding and deleting entries from the database
+
+**Thoughts** I am still struggling with meteor methods
+**Link(s) to work**
+1. [The app](https://lawrence-chege.github.io/am lost/)
+
+### Day 6: OCTOBER 22, 2019
+
+**Today's Progress**: I hosted the meteor app on heroku and added routing
+
+**Thoughts** I am struglling to do the edit method.
+This is because I dont  really understand the flow
+**Link(s) to work**
+1. [The app](https://am-lost.herokuapp.com/)
+
+### Day 7: OCTOBER 23, 2019
+
+**Today's Progress**: I contributed some readme changes to an open source project
+
+**Thoughts** I am writing a blog on git
+**Link(s) to work**
+1. [The app](https://github.com/wecodeafrica/hospitalsghana)
