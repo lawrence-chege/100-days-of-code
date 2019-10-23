@@ -70,5 +70,6 @@ This is because I dont  really understand the flow
 **Today's Progress**: I contributed some readme changes to an open source project
 
 **Thoughts** I am writing a blog on git
+
 **Link(s) to work**
 1. [The app](https://github.com/wecodeafrica/hospitalsghana)
